@@ -7,4 +7,5 @@ Infected
 Uninfected
 
 Inspiration
+
 Save humans by detecting and deploying Image Cells that contain Malaria or not!
