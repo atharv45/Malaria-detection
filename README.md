@@ -2,10 +2,10 @@
 
 The dataset contains 2 folders
 
-Infected
+1) Infected
 
-Uninfected
+2) Uninfected
 
-Inspiration
+* Inspiration
 
 Save humans by detecting and deploying Image Cells that contain Malaria or not!
